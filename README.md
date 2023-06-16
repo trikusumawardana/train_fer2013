@@ -19,4 +19,4 @@ https://www.kaggle.com/datasets/msambare/fer2013?resource=download
 15. Evaluate the model on the test dataset
 
 ## Lisensi
-Repositori ini dan kode yang ada di dalamnya hanya untuk penggunaan akademik.
+This repository and the code within it are intended for academic use only.
