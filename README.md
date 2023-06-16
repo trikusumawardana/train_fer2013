@@ -18,5 +18,5 @@ https://www.kaggle.com/datasets/msambare/fer2013?resource=download
 14. Load the best model
 15. Evaluate the model on the test dataset
 
-## Lisensi
+## License
 This repository and the code within it are intended for academic use only.
